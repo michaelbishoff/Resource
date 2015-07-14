@@ -1,0 +1,73 @@
+@import url("fonts/fonts.css");
+
+body {
+    margin: 0px;
+}
+
+#home-top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    background-color: #000066;
+}
+
+#home-top-bar td {
+    position: fixed;
+    z-index: 1;
+    top: 9%;
+    color: white;
+    font-family: trajan;
+}
+
+#home-top-bar .block {
+    position: fixed;
+    width: 20%;
+    height: 15%;
+    top: 2%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.word {
+    padding: 10%;
+}
+
+.word2 {
+    padding-top: 15%;
+}
+
+#title {
+    top: 5%;
+    font-size: 200%;
+    left: 5%;
+}
+
+#add-new {
+    left: 55%;
+    top: 11%;
+}
+
+#explore {
+    left: 80%;
+    top: 11%;
+}
+
+#home-body {
+    position: fixed;
+    top: 20%;
+    left: 0;
+    width: 100%;
+    height: 70%;
+    background-color: #666699;
+}
+
+#home-bottom-bar {
+    position: fixed;
+    top: 90%;
+    left: 0;
+    width: 100%;
+    height: 10%;
+    background-color: #000066;
+}
